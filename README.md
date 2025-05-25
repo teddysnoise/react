@@ -1,2 +1,2 @@
 # react
-Bad coding is a beginning
+# Bad coding is a beginning
